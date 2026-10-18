@@ -1,0 +1,7 @@
+id,cliente,producto,cantidad,total
+201,Empresa Alfa,Impresora Laser HP,-3,450.00
+202,Comercial Beta,Memoria RAM 16GB Kingston,2,ERROR_PRECIO
+203,Pedro Gomez,Disco SSD Crucial 1TB,0,120.00
+204,Laura Silva,Router Wi-Fi 6 TP-Link,1,NULL
+205,Andres Castro,Switch Gigabit 8 Puertos,Cinco,150.00
+206,Maria Belen,Monitor Curvo Samsung,2,
